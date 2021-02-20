@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:g:\data structures\sheets\final rrvision\sol sheet 8\sheet8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1613837723 source:g:\data structures\sheets\final rrvision\sol sheet 8\sheet8\list.c
+	"list.h"
+	<stdlib.h>
+
+1613830270 g:\data structures\sheets\final rrvision\sol sheet 8\sheet8\list.h
+	<stdbool.h>
+
